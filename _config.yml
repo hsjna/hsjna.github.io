@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hyeong Suk Na, Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hyeong Suk Na"
 description              : &description "personal description"
 url                      : https://hsjna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
